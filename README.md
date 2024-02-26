@@ -12,6 +12,6 @@ The function takes four arguments:
 - `input_file` is the name and location of the input CSV file (relative/absolute file path or URL)
 - `first_column` is the header of the first column selected
 - `second_column` is the header of the second colum selected
-- `output_filename` is the name of the output CSV file (without .csv extension)
+- `output_filename` is the name (and, if applicable file path) of the output CSV file (without .csv extension)
 
 Script written with the support of ChatGPT 3.5.
