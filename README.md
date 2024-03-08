@@ -2,7 +2,7 @@
 
 ## [transform-csv](transform-csv)
 
-[**transform-csv.py**](transform_csv/transform_csv.py) contains the **transform_csv()** function which transforms any CSV file by
+[**transform-csv.py**](transform-csv/transform-csv.py) contains the **transform_csv()** function which transforms any CSV file by
 - reading the input CSV file (from relative/absolute file path or URL),
 - moving the first column selected to the first column from left and arranging the table rows according to this column's values (alphanumerically increasing),
 - moving the second column selected to the second column from left and arranging those table rows that share the same values in the first column according to this second column's values (alphanumerically increasing), and
