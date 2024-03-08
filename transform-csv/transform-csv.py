@@ -40,7 +40,3 @@ def transform_csv(input_file, first_column, second_column, output_filename):  # 
 
     # return output CSV file name for further use
     return output_file
-
-
-# example call function
-# transform_csv('https://raw.githubusercontent.com/auden-in-austria-digital/aad-data/main/doc-data/csv/img_doc_id.csv', 'doc_id', 'img_id', 'doc_img_id')
